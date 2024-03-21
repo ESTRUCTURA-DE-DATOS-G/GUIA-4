@@ -50,7 +50,7 @@ respuesta: c. selección
 
 
 
-## How does quantum computing work?
+## HOW DOES QUANTUM COMPUTING WORK?
 
 
 ## GRAFICAS DE COMPLEJIDAD ALGORITMICAS
