@@ -51,7 +51,7 @@ respuesta: c. selección
 
 
 ## HOW DOES QUANTUM COMPUTING WORK?
-
+https://1drv.ms/w/s!Au7XQM-Pbv6W_X1JJmhagk5pmmLb?e=IMdoCv
 
 ## GRAFICAS DE COMPLEJIDAD ALGORITMICAS
 https://umbedu-my.sharepoint.com/:w:/g/personal/juanmendoza_sm_academia_umb_edu_co/Ea4gGNzqOxtHhnobFSTxMsAB6755jl48UY_R4Cx4wSLfjQ?e=WD1OpH
